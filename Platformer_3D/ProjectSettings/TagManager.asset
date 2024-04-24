@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin_SoftStar
+  - Coin_Diamondo5side
+  - Coin_Diamondo
+  - Coin_Penta
+  - Coin_Heart
+  - Enemy
+  - Coin_Or
+  - Coin_Bronze
+  - Coin_Argent
+  - RespawnForest
+  - RespawnForestPlatforms
+  - VillageRespawn
+  - VillageRespawnPlatforms
+  - MarketRespawn
+  - MarketRespawnPlatforms
+  - CastleRespawn
+  - WinRespawn
+  - TPTODungeon
+  - DungeonRespawn
+  - TPToCastle
+  - TPToCastleTP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Post Process
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
